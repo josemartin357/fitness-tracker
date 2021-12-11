@@ -49,8 +49,11 @@ Heroku
 
 ## User Story
 As a user, I want to be able to view create and track daily workouts. 
+<br/>
 I want to be able to log multiple exercises in a workout on a given day. 
+<br/>
 I should also be able to track the name, type, weight, sets, reps, and duration of exercise. 
+<br/>
 If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ## Contribution
