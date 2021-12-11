@@ -26,7 +26,7 @@ Fitness chart
 ## Table of Contents
 * [Installation](#installation)
 * [Technologies Used](#technologies)
-* [User Story](#user)
+* [User Story](#user-story)
 * [Contribution](#contribution)
 * [License](#license)
 * [Questions](#questions)
@@ -36,7 +36,7 @@ Fitness chart
 Also, type in terminal `npm i` or `npm install` to install dependency packages needed.
 2. To use the application, run the seeds with `npm run seed` and call `npm start` to deploy to localhost: 3000.  
 
-## Technologies Used:
+## Technologies
 Node.js
 <br/>
 Express
