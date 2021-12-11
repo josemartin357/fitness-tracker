@@ -25,15 +25,16 @@ Fitness chart
 
 ## Table of Contents
 * [Installation](#installation)
-* [Technologies Used](#builtwith)
-* [Usage](#usage)
+* [Technologies Used](#technologies)
+* [User Story](#user)
 * [Contribution](#contribution)
 * [License](#license)
 * [Questions](#questions)
 
 ## Installation
-To install project, simply clone repository or download documents and save them to your computer. 
+1. To install project, simply clone repository or download documents and save them to your computer. 
 Also, type in terminal `npm i` or `npm install` to install dependency packages needed.
+2. To use the application, run the seeds with `npm run seed` and call `npm start` to deploy to localhost: 3000.  
 
 ## Technologies Used:
 Node.js
@@ -42,10 +43,15 @@ Express
 <br/>
 MongoDB
 <br/>
+Mongoose.js
+<br/>
 Heroku
 
-## Usage
-To use the application, run the seeds with `npm run seed` and call `npm start` to deploy to local host. This project 
+## User Story
+As a user, I want to be able to view create and track daily workouts. 
+I want to be able to log multiple exercises in a workout on a given day. 
+I should also be able to track the name, type, weight, sets, reps, and duration of exercise. 
+If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ## Contribution
 You are welcome to contribute to project. Please “fork” it to your Github and work from there.
